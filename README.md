@@ -2,7 +2,7 @@
 Connect to remote ssh host, execute commands, and copy files
 
 Once you have cracked the remote ssh host's password using lockpick-kit.py, use ssh-connect to connect to the remote host,
-conduct reconnaisance, input commands, and copy files from the remote host to your machine.
+conduct reconnaissance, input commands, and copy files from the remote host to your machine.
 
 To install: place a copy of this script in your scripts directory.
 
